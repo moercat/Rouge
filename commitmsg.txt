@@ -1,0 +1,112 @@
+1652306655|Initial commit
+1652306765|Initial Commit
+1652560897|Installed Universal Render Pipeline
+1652560975|Restructured Project Folder
+1652561120|Imported ProBuilder
+1652561394|Imported Input System
+1652561598|Imported Post Processing
+1652561882|Imported Mirror
+1652562117|Imported Kenney Weapons
+1652562392|Set Up Scenes
+1652563437|Added GameManager
+1652565564|Created Main Menu
+1652568464|Added Main Menu Functionality
+1652569707|Added GameSettings
+1652572018|Created Prefabs
+1652575112|Created Controllers for Player and AI
+1652575470|Added Input Actions
+1652575741|Updated Controller Types
+1652576710|Added Player Movement
+1652578167|Made Movement Actually Work
+1652579251|Fixed Host Logic
+1652579359|Created CameraController
+1652580792|Added Camera Parenting
+1652582125|Newton
+1652587398|Made Camera Work
+1652588248|Fixed Player Movement
+1652588822|Test map
+1652589199|Actually added the map this time
+1652589281|Added Sound Object
+1652590593|Added Sound Shader
+1652592518|Updated Sound Material
+1652592557|Collisions!
+1652593245|Added Sprinting and Walking
+1652596619|Added Sound Spawning
+1652596731|Trying to fix camera x clamp
+1652596981|Updated Main Scene
+1652597205|Updated Lighting
+1652597272|Updated Shader Graph
+1652601902|Atmosphere
+1652602500|Updated Environment Properties
+1652603023|Fixed camera clamp bug completely :)
+1652603129|Weapon
+1652603456|Wrapped it Up in a Coroutine
+1652604285|Added Walk States
+1652604732|Removed Redundant and Unused Weapons
+1652605186|Added Weapon Sprites
+1652605346|Reorganised Weapons Folder
+1652606644|Added Example Weapons
+1652607116|Adjusted Weapon Model Scale
+1652607177|Fixed Broken Test Map Scale
+1652612404|Adjusted Player Camera
+1652612665|Added Player Weapon Handling
+1652613585|Added Weapon Spawning
+1652617353|Added step sounds
+1652617458|Fixed merge issue
+1652618306|Made step length easier to modify
+1652618422|Updated Weapon Handling
+1652618980|Imported Ammo
+1652619044|Fixed stepLength, removed walkState
+1652619315|Fixed Weapon Switching
+1652619577|Adjusted Step Length
+1652620202|Dimmed the Walls
+1652620408|Working on implementing the ammo
+1652620492|Floor Now Brighter
+1652622258|Added a GameUIManager
+1652622942|Added a Basic Weapon UI
+1652623771|Fixed Ammo Counter
+1652623993|Added Weapon Icon Switching
+1652624146|Added Health Mechanics
+1652624606|Added Firing
+1652624763|Added ammo, assigned to weapons, began work on fire method
+1652625508|**BUGGED** Added fire control
+1652625740|Added Health Handling
+1652644496|Added Player Weapon Pickups
+1652645174|Fixed Weapon Pickup Ammo Count
+1652645826|Added Pickup Text
+1652646268|Working more on the firing method
+1652646649|Added NavMesh
+1652647871|Added Rudimentary AI
+1652651392|Fixed Player Spawning
+1652652222|Added AI Behaviour
+1652652716|Added Step Sounds to AI
+1652653168|The AI Can Now Die
+1652654110|Bullets work!!
+1652655672|Added Player and AI Spawning
+1652655769|Fix
+1652655795|Fix
+1652655910|Rebaked Navmesh
+1652656251|AI No Longer Aggressively Snuggles
+1652656357|Fixed AIMovement sound generation bug
+1652656596|Slightly Fixed AI Issues
+1652657299|Damage baybee
+1652657531|Fixed AI Issues
+1652657860|Added AI Difficulty Selection
+1652658202|Added Sound Spawning When Shooting
+1652658245|Fixed Weapon Spawners Hovering
+1652658368|The AI Are Now Armed
+1652660252|Added Reloading
+1652660673|Implemented Death
+1652661097|Lowered Move Speed
+1652661879|Fixed boolet
+1652662185|Added Gamestate Tracking
+1652662265|Update AIController.cs
+1652663081|Fixed AI Bugs
+1652663307|Added sound!! You can hear now!!! Its a miracle!!! The doctors said you wouldn't be able to!!!!
+1652663408|Gun Ammo Depletes Again
+1652664373|AI now hides when dead
+1652665147|Debugging AI Firing
+1652665462|AI SHOOT EWOOOWOOWJIOAHNWIUDNBAIBNW
+1652665742|Adjusted Menu Scenes
+1652666190|Added Credit Where It's Due
+1652666297|Some more fixes - Removeed greadnanalskijndlko
